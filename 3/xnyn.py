@@ -32,5 +32,5 @@ plt.xlabel('$n$')
 plt.ylabel('$y(n)$')
 plt.grid()# minor
 
-plt.savefig('xnyn.pdf')
+#plt.savefig('xnyn.pdf')
 plt.show()
